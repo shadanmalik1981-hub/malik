@@ -5,7 +5,7 @@ a = int(input("enter the day:"))
 b = int(input("enter the month:"))
 c = int(input("enter the year:"))
 
-print ("of birth is on ok brother:", a,b,c)
+print ("your birthday of birth is on ok brother:", a,b,c)
 
 
  
