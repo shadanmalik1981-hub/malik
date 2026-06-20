@@ -1,0 +1,11 @@
+a=(1,4,7,8,2,9)
+b=(8,9,5,3,8)
+c=a+b
+print(c)
+print(c.count(8))
+print(len(c))
+d=(c*3)
+print(len(d))
+#print(a,b)
+#print(type(a))
+print(6 in d)
