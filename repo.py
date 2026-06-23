@@ -2,4 +2,4 @@ a =int(input(" enter the number"))
 b=int(input(" enter the number"))
 print (a+b)
 
-hi 
+hi froll
