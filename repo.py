@@ -2,4 +2,4 @@ a =int(input(" enter the number"))
 b=int(input(" enter the number"))
 print (a+b)
 
-hello my friend donald trump
+hello my friend donald ""
